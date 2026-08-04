@@ -1,0 +1,6 @@
+{
+  "name": "FastGit",
+  "description": "Full-featured GitHub client and repository file manager for Android developers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
